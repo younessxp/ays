@@ -1,0 +1,478 @@
+{
+  "sPOK": [
+    {
+      "servis": "https://www.wikipedia.org",
+      "PINOK": "394025609994254422",
+      "PIN": "6300978111",
+      "PIN1": "6300978111",
+      "POK": "1033173712",
+      "POK1": "1033173712",
+      "POK2": "1033173712",
+      "POK3": "1033173712"
+    }
+  ],
+  "med": [
+    {
+      "artext": "3ala Khota Al 7abib - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/3ala Khota Al 7abib.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "3asher Thawi Arayee - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/3asher Thawi Arayee.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "7ara Fikri - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/7ara Fikri.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ahl Ausham Wull Qussam Naghm ~ 4 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ahl Ausham Wull Qussam Naghm ~ 4.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Al Qods - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Al Qods.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Allah Ya Dayem - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Allah Ya Dayem.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Amman Amman Abdelra7man - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Amman Amman Abdelra7man.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ana Deifak Ya Rasoul Allah - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ana Deifak Ya Rasoul Allah.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Anta Al 3alim - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Anta Al 3alim.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Anta Anubbyo La Kutheb - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Anta Anubbyo La Kutheb.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Anta Nosruto Al Akwan - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Anta Nosruto Al Akwan.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Dayem Al Lotf Allah - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Dayem Al Lotf Allah.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Elayeh Beh Sob7anah - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Elayeh Beh Sob7anah.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Erfa3 Eeduk Yulla 2013 ~ Full ~ - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Erfa3 Eeduk Yulla 2013 Full  ~ .mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Etha Konta Fi Bab Annubi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Etha Konta Fi Bab Annubi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Fatema - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Fatema.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Fi Tholmati Al Ar7am - Abu Sha3ar Bothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Fi Tholmati Al Ar7am.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Fla Tarom - Abu Sha3ar Bothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Fla Tarom.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Hajet La Shwaq - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Hajet La Shwaq.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Hei Teiba - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Hei Teiba.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Hubbut Nassamat El Wadi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Hubbut Nassamat El Wadi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Khuda3 Lyia - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Khuda3 Lyia.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "La Elaha Ella Allah 2 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/La Elaha Ella Allah 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "La Elaha Ella Allah - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/La Elaha Ella Allah.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "La Ellaha Ella Allah Yo7ee - Abu Sha3ar Borothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/La Ellaha Ella Allah Yo7ee.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Le Teiba Ya Nas - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Le Teiba Ya Nas.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Lelet Safa - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Lelet Safa.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Lumma Wuslna Al Madina - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Lumma Wuslna Al Madina.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ma Balo Qalbka - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ma Balo Qalbka.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Mali Sewaka Hummon - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Mali Sewaka Hummon.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Maoulai Enni Bebabeka - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Maoulai Enni Bebabeka.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Maqamuk Ma7mood - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Maqamuk Ma7mood.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Minni Ya Keram Al 7ai - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Minni Ya Keram Al 7ai.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Mo7ammad Nabeena - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Mo7ammad Nabeena.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Mo7ammad Sullo 3ala Mo7ammad 2 - Abu Sha3ar Brothes",
+      "url": "https://archive.org/download/anachid-bouvha3r/Mo7ammad Sullo 3ala Mo7ammad 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Monaya Wallah Azorek - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Monaya Wallah Azorek.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Mudd Ya Ahl Al 7amyia - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Mudd Ya Ahl Al 7amyia.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Mun Methlo A7mada - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Mun Methlo A7mada.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Nabda Besm Al Jalala - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Nabda Besm Al Jalala.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Nassamato Hawaka - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Nassamato Hawaka.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Nosulli 3alaieek - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Nosulli 3alaieek.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ommo Anubbi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ommo Anubbi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Qud Tumm Allah - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Qud Tumm Allah 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Qudd Sama - Abu Sha3art Borthers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Qudd Sama.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Radyia Allah 3un Ommahat - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Radyia Allah 3un Ommahat.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Saieedi Abu Bakr - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Saieedi Abu Bakr.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Saiyed Asaddat - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Saiyed Asaddat.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Salla Allaho_v_Abu Sha3ar - Abu Sha3ar",
+      "url": "https://archive.org/download/anachid-bouvha3r/Salla Allaho_v_Abu Sha3ar.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Shamson Amm Qammar Turkish - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Shamson Amm Qammar Turkish.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Sulla Allaho 3la Mohammad Abu Bahjut - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Sulla Allaho 3la Mohammad Abu Bahjut.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Sullem 3aleh Taha Arasoul - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Sullem 3aleh Taha Arasoul.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Sulli Ya Rabi Wasullem 2 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Sulli Ya Rabi Wasullem 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Sullo Sullo 3a Arasoul - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Sullo Sullo 3a Arasoul.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Taher Annusab - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Taher Annusab.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Taraqto Bab Araja 1 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Taraqto Bab Araja 1.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Taraqto Bab Araja 2 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Taraqto Bab Araja 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Taraqto Bab Araja 3 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Taraqto Bab Araja 3.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Wa Qaelen Li - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Wa Qaelen Li.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya 7abib - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya 7abib.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya 7abibi Kaifa Ashqa - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya 7abibi Kaifa Ashqa.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya 7abibi Tala Shouqi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya 7abibi Tala Shouqi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya 7abibi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya 7abibi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya 7adi Arokban - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya 7adi Arokban.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Elahi Ya Mojeeb Asaeleen - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Elahi Ya Mojeeb Asaeleen.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Koukab Al 3ussr - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Koukab Al 3ussr.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Lhadyak Hadyee Al Hoda - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Lhadyak Hadyee Al Hoda.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Moslem Ya Tha Al Alla - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Moslem Ya Tha Al Alla.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Mostajeeb Le Da3i - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Mostajeeb Le Da3i.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Mun Yahwa Nabeena - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Mun Yahwa Nabeena.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Rubb Al 3alameen - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Rubb Al 3alameen.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Rubb Sulli 3ala Al Hadi - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Rubb Sulli 3ala Al Hadi.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Sayegh Lejmali - Abu Sha3a4 Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Sayegh Lejmali.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Ya Taha - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Ya Taha.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "Yammut 7emak - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/Yammut 7emak.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "~7ammas Wull Qussam Naghm 3 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/~7ammas Wull Qussam Naghm 3.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "~E3lum Suwer Nagh 1 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/~E3lum Suwer Nagh 1.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    },
+    {
+      "artext": "~Laou Zado 3aleina Naghm 2 - Abu Sha3ar Brothers",
+      "url": "https://archive.org/download/anachid-bouvha3r/~Laou Zado 3aleina Naghm 2.mp3",
+      "imagview": "https://ia801009.us.archive.org/28/items/anachid-bouvha3r/الإخوة%20ابو%20شعر%201.jpg",
+      "packnem": "mo.muiscsongbesyt.iscrwordrsharr"
+    }
+  ]
+}
